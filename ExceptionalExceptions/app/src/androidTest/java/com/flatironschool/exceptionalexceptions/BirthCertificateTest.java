@@ -138,10 +138,6 @@ public class BirthCertificateTest extends ApplicationTestCase<Application> {
     }
 
     public void testInitializerSetsDefaultValues() {
-
-        //BirthCertificate alCert = new BirthCertificate("al", "tyus", "070419878", 30.0);
-        //Exception invalidFirstNameException = null;
-
         BirthCertificate alCert = new BirthCertificate("al", "tyus", "070419878", 30.0);
         BirthCertificate validCert = new BirthCertificate("James", "Thomas", "07042008", 60.0);
 
