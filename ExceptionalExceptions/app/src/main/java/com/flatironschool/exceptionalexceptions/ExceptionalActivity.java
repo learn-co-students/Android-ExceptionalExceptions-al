@@ -12,6 +12,9 @@ public class ExceptionalActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_exceptional);
+
+        BirthCertificate jasonCert = new BirthCertificate("jason", "hanson", "07041987", 88.0);
+
     }
 
 
