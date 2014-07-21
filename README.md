@@ -19,6 +19,7 @@ Android-ExceptionalExceptions
   The required methods are as follows: 
 
   ```Java
+  
   public BirthCertificate(String firstName, String lastName, String birthString, Double weightOunces)
 
   public static Boolean validateProperString(String properString) throws Exception // see test spec 
