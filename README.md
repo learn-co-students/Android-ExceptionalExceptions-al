@@ -13,7 +13,7 @@ Android-ExceptionalExceptions
 
 ## Requirements
   1. Create a new class `BirthCertificate.java`
-  2. In it's constructor, BirthCertificate should validate each variable using standard Exception objects.  
+  2. In it's constructor, BirthCertificate should validate each parameter using Exception objects.  
   3. If a field is invalid that field should be set to a default value defined in the test suite.  
 
   The required methods are as follows: 
