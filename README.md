@@ -1,7 +1,4 @@
----
-tags: OOP, properties, methods, exceptions, error handling
-language: java
----
+
 
 Android-ExceptionalExceptions
 =============================
