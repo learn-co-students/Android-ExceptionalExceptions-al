@@ -41,4 +41,4 @@ Android-ExceptionalExceptions
   - [The Catch Blocks](http://docs.oracle.com/javase/tutorial/essential/exceptions/catch.html)
   - [Try Catch for dummies](http://www.dummies.com/how-to/content/try-statements-in-java.html)
 
-<a href='https://learn.co/lessons/Android-ExceptionalExceptions' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/Android-ExceptionalExceptions' title='Android-ExceptionalExceptions'>Android-ExceptionalExceptions</a> on Learn.co and start learning to code for free.</p>
